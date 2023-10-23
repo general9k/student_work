@@ -1,0 +1,3 @@
+/Users/general9k/student_work/3_semester/с++/№1/task1/cmake-build-debug/CMakeFiles/task1.dir
+/Users/general9k/student_work/3_semester/с++/№1/task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/general9k/student_work/3_semester/с++/№1/task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
