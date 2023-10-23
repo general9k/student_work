@@ -1,0 +1,41 @@
+body {
+    background-color: fff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: aquamarine;
+    margin: 10px;
+    color:black;
+}
+
+.w-logo {
+    margin-left: 20px;
+    float: left;
+}
+
+.w-text-link {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.w-menu {
+    text-align: center;
+    margin: 20px 20px;
+}
+
+.w-list {
+    float: right;
+    margin-left: 20px;
+}
+
+.w-link {
+    padding: 20px;
+    margin-right: 20px;
+}
+
